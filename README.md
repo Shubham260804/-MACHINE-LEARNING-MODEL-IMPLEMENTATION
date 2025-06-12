@@ -42,3 +42,5 @@ The model performed well in identifying patients at risk of diabetes. The featur
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/0d9027f1-c354-4549-b08f-c0d25320304f)
+
